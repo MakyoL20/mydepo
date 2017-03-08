@@ -1,0 +1,2 @@
+# mydepo
+Kodlamayla ilgili kaynağım
